@@ -3,10 +3,7 @@ package snakegame;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
-/**
- *
- * @author Sean
- */
+
 public class Snake {
     
     private final int SNAKE_WIDTH;

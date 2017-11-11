@@ -5,10 +5,7 @@ import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.util.Random;
 
-/**
- *
- * @author Sean
- */
+
 public class Block {
     
     private Random rand;

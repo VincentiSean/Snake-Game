@@ -18,10 +18,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-/**
- *
- * @author Sean
- */
+
 public class SnakePanel extends JPanel implements ActionListener, KeyListener {
     
     private SnakeGame game;

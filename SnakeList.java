@@ -7,10 +7,7 @@ import java.awt.event.KeyEvent;
 import java.awt.geom.Line2D;
 import java.util.ArrayList;
 
-/**
- *
- * @author Sean
- */
+
 public class SnakeList {
     
     private ArrayList<Snake> snakeList;

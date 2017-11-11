@@ -2,10 +2,7 @@ package snakegame;
 
 import javax.swing.JFrame;
 
-/**
- *
- * @author Sean
- */
+
 public class SnakeGame extends JFrame {
     
     private SnakePanel panel;

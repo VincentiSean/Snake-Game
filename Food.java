@@ -4,10 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
-/**
- *
- * @author Sean
- */
+
 public class Food {
     
     private int x, y;

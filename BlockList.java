@@ -4,10 +4,7 @@ import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.util.ArrayList;
 
-/**
- *
- * @author Sean
- */
+
 public class BlockList {
     
     private ArrayList<Block> blockList;
